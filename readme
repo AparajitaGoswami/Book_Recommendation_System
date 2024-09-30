@@ -1,0 +1,1 @@
+This is a book recommendation system. The first Home page gives a list of books which are good based on the number as well as the value of ratings. The Recommend link takes the user to a page where they can search a book name, anf our model gives the user book recommendations based on the input.
